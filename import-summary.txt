@@ -1,0 +1,173 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Space Shooter Mobile\
+* Space Shooter Mobile\AndroidManifest.xml
+* Space Shooter Mobile\assets\
+* Space Shooter Mobile\assets\bin\
+* Space Shooter Mobile\assets\bin\Data\
+* Space Shooter Mobile\assets\bin\Data\Managed\
+* Space Shooter Mobile\assets\bin\Data\Managed\Assembly-CSharp-firstpass.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\Assembly-CSharp.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\Mono.Data.Sqlite.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\Mono.Data.Tds.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\Mono.Data.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\Mono.Posix.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\Mono.Security.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\System.Configuration.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\System.Core.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\System.Data.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\System.EnterpriseServices.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\System.Security.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\System.Transactions.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\System.Xml.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\System.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\UnityEngine.Networking.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\UnityEngine.UI.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\UnityEngine.dll
+* Space Shooter Mobile\assets\bin\Data\Managed\UnityEngine.dll.mdb
+* Space Shooter Mobile\assets\bin\Data\Managed\mscorlib.dll
+* Space Shooter Mobile\assets\bin\Data\Resources\
+* Space Shooter Mobile\assets\bin\Data\Resources\unity_builtin_extra
+* Space Shooter Mobile\assets\bin\Data\globalgamemanagers
+* Space Shooter Mobile\assets\bin\Data\globalgamemanagers.assets
+* Space Shooter Mobile\assets\bin\Data\level0
+* Space Shooter Mobile\assets\bin\Data\settings.xml
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split0
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split1
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split10
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split11
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split12
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split13
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split14
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split15
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split16
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split17
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split18
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split19
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split2
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split20
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split21
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split22
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split23
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split24
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split25
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split26
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split27
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split28
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split29
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split3
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split30
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split31
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split32
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split33
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split34
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split35
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split36
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split37
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split38
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split39
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split4
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split40
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split41
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split42
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split43
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split44
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split45
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split46
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split47
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split48
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split49
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split5
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split50
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split51
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split52
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split6
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split7
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split8
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.assets.split9
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.resource.split0
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.resource.split1
+* Space Shooter Mobile\assets\bin\Data\sharedassets0.resource.split2
+* Space Shooter Mobile\assets\bin\Data\splash.png
+* Space Shooter Mobile\assets\bin\Data\unity default resources
+* Space Shooter Mobile\libs\
+* Space Shooter Mobile\libs\armeabi-v7a\
+* Space Shooter Mobile\libs\armeabi-v7a\libmain.so
+* Space Shooter Mobile\libs\armeabi-v7a\libmono.so
+* Space Shooter Mobile\libs\armeabi-v7a\libsqlite3.so
+* Space Shooter Mobile\libs\armeabi-v7a\libunity.so
+* Space Shooter Mobile\libs\unity-classes.jar
+* Space Shooter Mobile\libs\x86\
+* Space Shooter Mobile\libs\x86\libmain.so
+* Space Shooter Mobile\libs\x86\libmono.so
+* Space Shooter Mobile\libs\x86\libsqlite3.so
+* Space Shooter Mobile\libs\x86\libunity.so
+* Space Shooter Mobile\project.properties
+* Space Shooter Mobile\res\
+* Space Shooter Mobile\res\drawable-hdpi\
+* Space Shooter Mobile\res\drawable-hdpi\app_icon.png
+* Space Shooter Mobile\res\drawable-ldpi\
+* Space Shooter Mobile\res\drawable-ldpi\app_icon.png
+* Space Shooter Mobile\res\drawable-xhdpi\
+* Space Shooter Mobile\res\drawable-xhdpi\app_banner.png
+* Space Shooter Mobile\res\drawable-xhdpi\app_icon.png
+* Space Shooter Mobile\res\drawable-xxhdpi\
+* Space Shooter Mobile\res\drawable-xxhdpi\app_icon.png
+* Space Shooter Mobile\res\drawable-xxxhdpi\
+* Space Shooter Mobile\res\drawable-xxxhdpi\app_icon.png
+* Space Shooter Mobile\res\drawable\
+* Space Shooter Mobile\res\drawable\app_icon.png
+* Space Shooter Mobile\res\values-v14\
+* Space Shooter Mobile\res\values-v14\styles.xml
+* Space Shooter Mobile\res\values-v21\
+* Space Shooter Mobile\res\values-v21\styles.xml
+* Space Shooter Mobile\res\values\
+* Space Shooter Mobile\res\values\strings.xml
+* Space Shooter Mobile\res\values\styles.xml
+* Space Shooter Mobile\src\
+* Space Shooter Mobile\src\com\
+* Space Shooter Mobile\src\com\theantranch\
+* Space Shooter Mobile\src\com\theantranch\UnityPlayerActivity.java
+* Space Shooter Mobile\src\com\theantranch\UnityPlayerNativeActivity.java
+* Space Shooter Mobile\src\com\theantranch\UnityPlayerProxyActivity.java
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => space\src\main\AndroidManifest.xml
+* assets\ => space\src\main\assets\
+* libs\armeabi-v7a\libmain.so => space\src\main\jniLibs\armeabi-v7a\libmain.so
+* libs\armeabi-v7a\libmono.so => space\src\main\jniLibs\armeabi-v7a\libmono.so
+* libs\armeabi-v7a\libsqlite3.so => space\src\main\jniLibs\armeabi-v7a\libsqlite3.so
+* libs\armeabi-v7a\libunity.so => space\src\main\jniLibs\armeabi-v7a\libunity.so
+* libs\unity-classes.jar => space\libs\unity-classes.jar
+* libs\x86\libmain.so => space\src\main\jniLibs\x86\libmain.so
+* libs\x86\libmono.so => space\src\main\jniLibs\x86\libmono.so
+* libs\x86\libsqlite3.so => space\src\main\jniLibs\x86\libsqlite3.so
+* libs\x86\libunity.so => space\src\main\jniLibs\x86\libunity.so
+* res\ => space\src\main\res\
+* src\ => space\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

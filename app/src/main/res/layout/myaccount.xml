@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id = "@+id/main_R"
+        android:layout_weight="361"
+        android:background="#0E1C23">
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id = "@+id/info"
+        android:layout_weight="250">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id = "@+id/phone"
+            android:layout_weight="1"
+            android:background="#002D38">
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id = "@+id/email"
+            android:layout_weight="1"
+            android:background="#003c4b">
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id = "@+id/address"
+            android:layout_weight="1"
+            android:background="#002D38">
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id = "@+id/blank"
+        android:layout_weight="210"
+        android:background="#0E1C23"
+        >
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
